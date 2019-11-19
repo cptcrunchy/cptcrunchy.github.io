@@ -7,7 +7,7 @@ export default function Skills() {
     <div className="main" id="skills">
       <div className="skills-main-div">
         <div className="skills-image-div">
-          <img alt="Saad Working" src={require("../../assests/images/developerActivity.svg")}></img>
+          <img alt="Jason Working" src={require("../../assests/images/developerActivity.svg")}></img>
         </div>
         <div className="skills-text-div">
           <h1 className="skills-heading">What i do </h1>
@@ -16,7 +16,6 @@ export default function Skills() {
           <div>
             <p className="subTitle skills-text">⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications</p>
             <p className="subTitle skills-text">⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks</p>
-            <p className="subTitle skills-text">⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean</p>
           </div>
         </div>
       </div>
