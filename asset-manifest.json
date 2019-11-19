@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b555add3.chunk.css",
-    "main.js": "/static/js/main.587acee9.chunk.js",
-    "main.js.map": "/static/js/main.587acee9.chunk.js.map",
+    "main.js": "/static/js/main.f489edfe.chunk.js",
+    "main.js.map": "/static/js/main.f489edfe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3b8c069b.js",
     "runtime-main.js.map": "/static/js/runtime-main.3b8c069b.js.map",
     "static/js/2.bab1cd57.chunk.js": "/static/js/2.bab1cd57.chunk.js",
     "static/js/2.bab1cd57.chunk.js.map": "/static/js/2.bab1cd57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.42d0a5e228e8fef48528015bb4b46887.js": "/precache-manifest.42d0a5e228e8fef48528015bb4b46887.js",
+    "precache-manifest.42ae3dae9dbe2f77dac61ec8ee85cf14.js": "/precache-manifest.42ae3dae9dbe2f77dac61ec8ee85cf14.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b555add3.chunk.css.map": "/static/css/main.b555add3.chunk.css.map",
     "static/media/index.css": "/static/media/Agustina.21f233e1.woff",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.3b8c069b.js",
     "static/js/2.bab1cd57.chunk.js",
     "static/css/main.b555add3.chunk.css",
-    "static/js/main.587acee9.chunk.js"
+    "static/js/main.f489edfe.chunk.js"
   ]
 }
