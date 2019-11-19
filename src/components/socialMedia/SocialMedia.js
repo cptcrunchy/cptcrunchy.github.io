@@ -4,24 +4,24 @@ import "./SocialMedia.css";
 export default function socialMedia() {
   return (
     <div className="social-media-div">
-      <a href="https://github.com/saadpasta" className="icon-button github" target="_blank">
+      <a href="https://github.com/cptcrunchy" className="icon-button github" target="_blank">
         <i className="fab fa-github"></i>
         <span></span>
       </a>
-      <a href="https://www.linkedin.com/in/saadpasta/" className="icon-button linkedin" target="_blank">
+      <a href="https://www.linkedin.com/in/jgutierrez84/" className="icon-button linkedin" target="_blank">
         <i className="fab fa-linkedin-in"></i>
         <span></span>
       </a>
-      <a href="mailto:saadpasta70@gmail.com" className="icon-button google" target="_blank">
+      <a href="mailto:jasong84@gmail.com" className="icon-button google" target="_blank">
         <i className="fab fa-google"></i>
         <span></span>
       </a>
-      <a href="https://gitlab.com/saadpasta" className="icon-button gitlab" target="_blank">
-        <i className="fab fa-gitlab"></i>
+      <a href="https://twitter.com/cptCrunch_" className="icon-button twitter" target="_blank">
+        <i className="fab fa-twitter"></i>
         <span></span>
       </a>
-      <a href="https://www.facebook.com/saad.pasta7" className="icon-button facebook" target="_blank">
-        <i className="fab fa-facebook-f"></i>
+      <a href="https://medium.com/@jasong84" className="icon-button facebook" target="_blank">
+        <i className="fab fa-medium-m"></i>
         <span></span>
       </a>
     </div>
